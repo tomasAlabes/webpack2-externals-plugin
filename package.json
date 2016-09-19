@@ -1,5 +1,5 @@
 {
-  "name": "webpack-externals-plugin",
+  "name": "webpack2-externals-plugin",
   "version": "1.0.0",
   "description": "Provides more powerful externals configuration options",
   "main": "index.js",
@@ -9,10 +9,10 @@
     "external",
     "externals"
   ],
-  "author": "Alexandre Kirszenberg <alexandre.kirszenberg@gmail.com>",
+  "author": "Tomas Alabes <tomas.alabes@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Morhaus/webpack-externals-plugin.git"
+    "url": "https://github.com/tomasAlabes/webpack2-externals-plugin.git"
   },
   "license": "MIT"
 }

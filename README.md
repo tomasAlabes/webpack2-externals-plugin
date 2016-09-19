@@ -1,4 +1,6 @@
-# webpack-externals-plugin
+# webpack2-externals-plugin
+
+**This is a fork of [webpack-externals-plugin](https://github.com/Morhaus/webpack-externals-plugin), but that works in Webpack 2.**
 
 Provides more powerful [externals](https://webpack.github.io/docs/configuration.html#externals) configuration options.
 
