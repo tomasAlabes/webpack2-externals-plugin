@@ -18,7 +18,7 @@ The following webpack configuration considers all modules under the local `node_
 `webpack.config.js`:
 
 ```js
-var ExternalsPlugin = require('webpack-externals-plugin');
+var ExternalsPlugin = require('webpack2-externals-plugin');
 module.exports = {
   entry: './app.js',
   output: {
